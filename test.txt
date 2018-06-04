@@ -1,0 +1,7 @@
+program test;
+var houssem : char ; 
+var hamdy : char;
+begin
+	hamdy := 'c';
+	houssem := 5;
+end
